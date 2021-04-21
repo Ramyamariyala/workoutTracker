@@ -3,6 +3,7 @@ const API = {
     let res;
     try {
       res = await fetch("/api/workouts");
+      
     } catch (err) {
       console.log(err)
     }
