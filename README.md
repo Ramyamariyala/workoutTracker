@@ -9,6 +9,10 @@
   - Contact information.
 
 * Links
+ - Github[https://github.com/Ramyamariyala/workoutTracker.git]
+   
+
+
 * Technology used
  - Visual Studio Code https://code.visualstudio.com
  - Create a package using npm init -y
@@ -21,5 +25,5 @@
 * Conact information 
  - Name: Ramya Mariyala
  - Email : ramya.mariyala@gmail.com
- - Github[https://github.com/Ramyamariyala/workoutTracker.git]
+ 
 
