@@ -9,9 +9,12 @@
   - Contact information.
 
 * Links
- -Url[https://ramyamariyala.github.io/workoutTracker/]
- -heroku[https://thawing-brook-16128.herokuapp.com/]
+ - [Url](https://ramyamariyala.github.io/workoutTracker/)
+ - [heroku](https://thawing-brook-16128.herokuapp.com/)
+ - [Github](https://github.com/Ramyamariyala/workoutTracker.git)
+
    
+   ![demo](public/assests/workout.gif)
 
 
 * Technology used
@@ -26,6 +29,6 @@
 * Conact information 
  - Name: Ramya Mariyala
  - Email : ramya.mariyala@gmail.com
- - Github[https://github.com/Ramyamariyala/workoutTracker.git]
+ 
  
 
