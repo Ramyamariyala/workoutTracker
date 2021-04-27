@@ -49,7 +49,7 @@ db.Workout.aggregate(
         totalDuration: { $sum: "$exercises.duration" }
       }
     }
-  ]).then(dbWorkout => {
+  ]).sort({_id:-1}).limit(7).then(dbWorkout => {
     // console.log(JSON.stringify(dbWorkout, null, 2));
     // console.log(dbWorkout);
     res.json(dbWorkout);
